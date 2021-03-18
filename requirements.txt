@@ -16,7 +16,7 @@ macropy3==1.1.0b2
 MarkupSafe==1.1.0
 matplotlib==3.0.2
 numpy==1.16.0
-Pillow==5.4.1
+Pillow==8.1.1
 pyecharts==0.5.11
 pyecharts-javascripthon==0.0.6
 pyecharts-jupyter-installer==0.0.3
